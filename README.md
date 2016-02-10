@@ -1,2 +1,2 @@
 # FMFG
-Combinde Frequency meter &amp; Frequency Generator
+Combined Frequency meter &amp; Frequency Generator
